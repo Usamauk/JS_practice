@@ -49,7 +49,4 @@
 
 
 
-// let total_marks = 500;
-// let subjects = 5;
-// let Each_sub = ("Each subject carry 100 marks");
 
